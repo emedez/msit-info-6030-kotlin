@@ -1,3 +1,5 @@
+/* Function having two Int parameters with Int return type: */
+
 fun sum(a: Int, b: Int): Int {
     return a + b
 }
